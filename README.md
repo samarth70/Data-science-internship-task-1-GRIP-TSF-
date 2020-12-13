@@ -1,2 +1,1 @@
-# Data-science-internship-task-1-GRIP-TSF-
-PREDICT THE PERCENTAGE OF STUDENT BASED ON NO. OF STUDY HOURS USING SUPERVISED ML
+# Data-science-internship-tasks-GRIP-TSF
